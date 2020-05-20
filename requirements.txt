@@ -27,7 +27,7 @@ future==0.16.0
 futures==3.1.1
 gunicorn==19.7.1
 htmlPy==2.0.3
-httplib2==0.10.3
+httplib2==0.18.0
 hurry.filesize==0.9
 hyperlink==17.3.1
 idna==2.6
