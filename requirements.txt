@@ -33,7 +33,7 @@ hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 language-check==1.0
 loremipsum==1.0.5
 lxml==3.8.0
