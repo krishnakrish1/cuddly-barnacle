@@ -61,7 +61,7 @@ pytz==2017.3
 PyYAML==3.12
 requests==2.18.4
 requests-file==1.4.2
-rsa==3.4.2
+rsa==4.7
 selenium==3.8.0
 sh==1.12.14
 six==1.10.0
